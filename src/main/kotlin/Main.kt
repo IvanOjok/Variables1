@@ -44,4 +44,6 @@ fun main() {
     val t:Boolean = true
 
 
+    val trree = 5
+
 }
