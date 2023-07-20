@@ -46,4 +46,12 @@ fun main() {
 
     val trree = 5
 
+    //1. write a program that calculates the difference between the year
+    // you were born and the current year
+
+    // 2. c2 = a2 + b2. If a right angled triangle has base 4cm, height 3cm
+    //find the height of the hypotenuse of the triangle
+
+    //c = square root(a2 + b2)
+
 }
