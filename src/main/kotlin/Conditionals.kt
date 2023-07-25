@@ -61,7 +61,7 @@ fun main() {
      selected restaurant
      -same program using a when statement
 
-     4. Solve the equation x3+7x2+10x = 0
+     4. Solve the equation x3+7x2+10x = 0  x(x2+7x+10)
 
      5. A person is moving to his village with a car moving at 20km/h and He has many
     alternative routes.
@@ -75,5 +75,7 @@ fun main() {
      -using a when statement
 
     */
+
+    val c = 4
 
 }
