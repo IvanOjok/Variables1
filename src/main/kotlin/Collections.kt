@@ -97,3 +97,14 @@ fun main() {
     }
 
 }
+
+
+fun a():Int {
+    val x = 6
+    return x
+}
+
+fun b(){
+    a()
+    val x = 7
+}
